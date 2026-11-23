@@ -21,3 +21,29 @@ A command-line Snake Water Gun game built in Python. Created to practice diction
    ```bash
    python main.py
    ```
+
+## 🖥️ Example Output
+
+```text
+Snake Water Gun Game
+1 for Snake
+2 for Water
+3 for Gun
+Enter Your Choice or 'q' to quit: 1
+You chose Snake
+Computer Chose Water
+You Win!
+Do you want to try again? (y/n): n
+----------------------------------------
+FINAL SCOREBOARD
+----------------------------------------
+User Score  Computer Score  Match Draw
+   1              0             0
+
+----------------------------------------
+🏆 You Are the Overall Winner!
+----------------------------------------
+
+GAME OVER...
+Thanks for playing!
+```
